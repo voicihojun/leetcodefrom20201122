@@ -63,3 +63,4 @@ When organizing Email column using GROUP BY clause, I can use Having clause for 
 The HAVING clause was added to SQL because the WHERE keyword could not be used with aggregate functions. 
 Aggregate function is a function that organize and display data like Group By.
 
+
